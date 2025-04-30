@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="438.701"
+   height="211.34"
+   viewBox="0 0 116.073 55.917"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo peso2.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="logopesociano.png"
+   inkscape:export-xdpi="10.941393"
+   inkscape:export-ydpi="10.941393"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0986982"
+     inkscape:cx="219.35049"
+     inkscape:cy="106.03458"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs2">
+    <radialGradient
+       xlink:href="#a"
+       id="b"
+       cx="34.189"
+       cy="80.382"
+       r="63.484"
+       fx="34.189"
+       fy="80.382"
+       gradientTransform="matrix(1.88801 0 0 2.36149 187.382 -13.918)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         style="stop-color:#000;stop-opacity:1"
+         id="stop1" />
+      <stop
+         offset="1"
+         style="stop-color:#000;stop-opacity:.55172414"
+         id="stop2" />
+    </linearGradient>
+    <path
+       id="c"
+       d="M-96.751 248.558h268.87v58.799h-268.87z" />
+  </defs>
+  <g
+     style="stroke-width:1.00733"
+     transform="matrix(1 0 0 .9855 -99.092 71.527)"
+     id="g8">
+    <rect
+       width="115.806"
+       height="56.472"
+       x="99.226"
+       y="-72.445"
+       rx=".032"
+       ry=".033"
+       style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#000;stroke-width:.266941;paint-order:stroke fill markers"
+       id="rect2" />
+    <g
+       style="stroke-width:1.856"
+       id="g7">
+      <path
+         d="M151.312 13.035c-21.37-.135-42.976 9.368-27.45 30.324-.066.086-.137.164-.204.248a39.317 39.317 0 0 0-2.359 2.505c-1.198 1.16-2.344 2.285-3.058 3.77a26.17 26.17 0 0 1-.997 1.825c-.764 1.31-1.598 2.667-2.027 3.842-.156.427-.295.85-.439 1.275a38.087 38.087 0 0 0-2.826 14.303c.04 14.36 8.182 27.533 21.186 34.273 1.606.93 3.5 2.086 4.17 2.047.049.018-.09-.25-.041-.233.138.7-.178 2.028 1.39 2.022l5.291-.022c2.617.522 5.658.308 8.328.312 2.23-.086-.361.105 6.21.023 3.141-.04 2.872-.56 3.118-1.69 17.077-4.798 30.165-19.454 30.187-36.785h-.71l.001-.104.71-.002c-.043-9.967-4.005-19.538-11.068-26.742-1.432-1.656-2.674-2.885-3.376-3.692 16.47-17.593-4.665-27.365-26.036-27.5zm-.115 6.16c17.127-.094 34.265 5.885 19.803 17.56-.33-.11-.662-.2-.993-.302a40.742 40.742 0 0 0-18.218-4.31 40.681 40.681 0 0 0-20.604 5.673c-13.979-12.443 3.003-18.529 20.012-18.622z"
+         style="fill:#000;fill-opacity:1;fill-rule:evenodd;stroke:url(#b);stroke-width:.491839;stroke-opacity:1;paint-order:stroke fill markers"
+         transform="matrix(.52966 0 0 .55615 41.13 -78.69)"
+         id="path2" />
+      <g
+         style="stroke-width:1.87928"
+         id="g4">
+        <path
+           d="M136.623 52.938c-6.728.115-13.47.017-20.188.382-1.297.111-1.148 1.828-1.727 2.643-10.698 31.226 15.063 51.371 35.843 49.927 9.608-.405 19.943-2.621 27.176-9.313-.617-.706-2.708-3.117-3.381-2.827-29.525 20.313-66.8-3.984-54.622-36.331 6.259-.288 13.587-.684 19.844-.337 11.317 3.285 11.69 15.093 4.95 19.454-3.244 2.1-8.993 3.062-13.866 1.792-1.903.078-.911-14.814-.92-16.758-1.987.03-3.196.144-5.149.25.494 7.25.365 14.569.857 21.792 4.727.083 9.527.358 14.21-.436 9.142-1.072 14.914-8.644 13.201-17.237-.62-5.128-2.828-9.608-7.749-11.778-2.096-1.088-4.48-1.357-6.825-1.229-.551 0-1.103.003-1.654.005z"
+           style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#fd0000;stroke-width:0.475458;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="matrix(.51477 0 0 .55814 43.66 -78.123)"
+           id="path3" />
+        <path
+           d="M117.428 49.986c-.242 1.041 3.455.942 4.08 1.087 36.198-37.099 82.742 6.228 57.827 35.44-4.188-4.346-8.413-8.746-12.386-13.231 13.87-3.361 9.914-16.751-.002-19.464-5.801-.07-13.122-.54-18.894-.536.64.606 5.055 4.964 5.844 5.3 3.482.196 8.296.233 11.781.336 4.323 3.045 3.6 9.705-1.657 9.607-2.534.17-6.593-.113-9.1.017 5.534 4.768 23.845 25.391 25.256 25.505 3.335-2.258 6.154-7.303 7.951-11.509 8.242-19.073-2.12-39.828-19.616-46.616-20.483-8.01-42.125-.398-51.083 14.064z"
+           style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#000;stroke-width:.47546;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           transform="matrix(.51477 0 0 .55814 43.66 -78.123)"
+           id="path4" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-weight:700;font-size:18.6667px;line-height:1.25;font-family:arial;-inkscape-font-specification:'arial Bold Italic';white-space:pre;shape-inside:url(#c);display:inline;stroke-width:1.14171"
+         transform="matrix(0.41556,0,0,0.47407,183.803,-173.775)"
+         id="text7"><tspan
+           x="-96.751953"
+           y="265.37271"
+           id="tspan2"><tspan
+   style="font-style:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan1">Diego Rafael Costa</tspan>
+</tspan><tspan
+           x="-96.751953"
+           y="288.70608"
+           id="tspan9"><tspan
+             style="fill:#00ffff"
+             id="tspan3">  </tspan><tspan
+             style="font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';fill:#00ffff"
+             id="tspan8">Personal Trainer</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
